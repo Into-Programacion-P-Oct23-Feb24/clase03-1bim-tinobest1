@@ -16,11 +16,9 @@ public class Ejemplo03 {
      */
     public static void main(String[] args) {
         // para crear un comentario de una linea debemos por doble//y dar un espacio para posteriormente escribir el comentario
-        
+
         // Ejemplos
- 
         // Tipo de datos Entero
-        
         /*
         se abre una linea con  /* para luego crearlo  * / y dentro del espacio que genera escribir lo que deseamos
         
@@ -35,7 +33,7 @@ public class Ejemplo03 {
         q
         q
         q
-        */
+         */
         int variable1;
         int variable2 = 10;
         int valorInicial = 18;
@@ -58,13 +56,13 @@ public class Ejemplo03 {
         // tipo de dato boolean - boleano
         boolean variable9 = false;
         boolean variable10 = true;
-        
+
         boolean variable11 = false;
         // boolean variable11 = false; // incorrecto
         variable11 = false;
         variable11 = true;
         // variable11 = variable6;
-        
+
     }
 
 }
